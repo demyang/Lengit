@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 argon2-cffi==21.1.0
 attrs==21.2.0
 autopep8==1.6.0
@@ -69,3 +70,16 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
 yapf==0.31.0
+=======
+cycler
+kiwisolver
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+scipy
+seaborn
+six
+>>>>>>> 0ba7542ebceeafe2d450b4f64ed18649beb7b124
