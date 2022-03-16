@@ -1,2 +1,2 @@
 # Lengit
-[![Связующее](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/demyang/Lengit.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/demyang/Lengit.git/main)
